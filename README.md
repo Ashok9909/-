@@ -45,7 +45,7 @@
     <tbody id="billBody"></tbody>
   </table>  <div class="total-box">કુલ રકમ: ₹ <span id="grandTotal">0</span></div>  <div class="footer">
     <div>કુલ આઇટમ: <span id="count">0</span></div>
-    <div>આભાર 🙏</div>
+    <div>આભાર </div>
   </div>
 </div><script>
 const items = [
